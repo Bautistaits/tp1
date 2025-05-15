@@ -1,6 +1,6 @@
 let colores = ["violeta", "azul", "verde", "amarillo", "celeste"]
 let primero = colores[0]
-let ultimo = colores[colores.length-1]
+let ultimo = colores[colores.length - 1]
 console.log(primero)
 console.log(ultimo)
 console.log(colores.length)
